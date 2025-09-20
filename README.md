@@ -65,10 +65,13 @@ Sou **desenvolvedor web** e **técnico informático**, apaixonado por tecnologia
   <a href="https://x.com/auzanojoaquim">
     <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://facebook.com/auzanojoaquim">
+  <a href="https://facebook.com/fb.auzanojoaquim">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/auzanojoaquim">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+<a href="https://wa.me/244975058956" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
