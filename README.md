@@ -180,6 +180,7 @@ Alguns dos projetos que fazem parte do meu percurso de desenvolvimento:
 - **Portfolio pessoal** — aplicação web para apresentação profissional e projetos.<hr>
 - **Movi Angola** — Sistema completo para análise, otimização e recomendação de rotas urbanas em Angola, com foco especial em segurança e eficiência.<hr>
 - **Auzaschool** — plataforma educacional com tecnologias web modernas.<hr>
+- **AuzaCode** — IDE completa e profissional para desenvolvimento de aplicações, rodando nativamente em Android, iOS, Windows, macOS e Linux.<hr>
 - **Yetu Preparatório** — Plataforma para preparação de concursos públicos angolanos (MED, MINSA, MININT e outros).<hr>
 - **Nzimbu** — aplicação de gestão financeira pessoal desenvolvida com Flutter.<hr>
 - **Kixikila** — Kixikila é uma plataforma digital inovadora para gestão de grupos de poupança coletiva, baseada em **confiança extrema** e transparência total.<hr>
