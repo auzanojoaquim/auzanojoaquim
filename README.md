@@ -103,11 +103,11 @@ Tenho interesse especial em:
 
 ---
 
-## GitHub Stats
+## Estatísticas do Github
 
 <div align="center">
 
-### GitHub Overview
+### Visão Geral do github
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auzanojoaquim&theme=github_dark"
@@ -117,7 +117,7 @@ Tenho interesse especial em:
 
 <br><br>
 
-### Contribution Streak
+### Sequência de Contribuições
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=auzanojoaquim&theme=merko&hide_border=true"
@@ -127,7 +127,7 @@ Tenho interesse especial em:
 
 <br><br>
 
-### GitHub Analytics
+### Análises do GitHub
 
 <table align="center">
 <tr>
