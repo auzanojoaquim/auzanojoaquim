@@ -1,3 +1,9 @@
+<div align="right">
+
+🇦🇴 **Português** · [🇬🇧 English](README.en.md)
+
+</div>
+
 # Olá, eu sou o Auzano Joaquim
 
 <div align="center">
@@ -240,5 +246,11 @@ Alguns dos projetos que fazem parte do meu percurso de desenvolvimento:
 **Auzano Joaquim**
 
 Desenvolvendo, aprendendo e transformando ideias em software.
+
+</div>
+
+<div align="right">
+
+🇦🇴 **Português** · [🇬🇧 English](README.en.md)
 
 </div>
